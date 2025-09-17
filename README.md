@@ -1,5 +1,7 @@
 **Customer Segmentation Analysis**
-Project Overview
+
+**Project Overview**
+
 This project provides a comprehensive analysis of customer data from a retail mall to identify distinct customer segments. The analysis follows a standard data science pipeline, including data cleaning, feature engineering, visualization, and clustering techniques.
 
 **Key Findings**
@@ -15,16 +17,4 @@ Optimal Clusters: Both the Elbow Method and Silhouette Score analysis suggested 
 
 Customer Segments: The clustering analysis successfully identified five distinct customer groups based on their age, income, and spending habits. These clusters can be further profiled to understand their unique characteristics.
 
-
-
-
-
-
-
-
-
-
-
-
-Tools
 
