@@ -5,6 +5,7 @@
 This project provides a comprehensive analysis of customer data from a retail mall to identify distinct customer segments. The analysis follows a standard data science pipeline, including data cleaning, feature engineering, visualization, and clustering techniques.
 
 **Key Findings**
+
 The analysis of the dataset revealed several key insights into customer behavior:
 
 Data Quality: The dataset was very clean, with no duplicate rows and no missing values in the core numeric features.
